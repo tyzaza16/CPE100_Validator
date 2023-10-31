@@ -1,0 +1,1 @@
+export type StudentData = [string, string, boolean, boolean, boolean];
